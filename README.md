@@ -1,4 +1,4 @@
-My old github account lost with my google account. This is the new one.
+[My old github account](https://github.com/bin-y) lost with my google account. This is the new one.
 
 [douyu](https://www.douyu.com/11448348)
 <!---
