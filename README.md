@@ -1,6 +1,6 @@
-[My old github account](https://github.com/bin-y) lost with my google account, wye. This is the new one.
+# Moving to [Codeberg](https://codeberg.org/yongbin)
 
-Moving to [Codeberg](https://codeberg.org/yongbin)
+[My old github account](https://github.com/bin-y) lost with my google account, wye. This is the new one.
 
 [douyu](https://www.douyu.com/11448348)
 <!---
